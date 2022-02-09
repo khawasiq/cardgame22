@@ -7,6 +7,8 @@ package exercise1;
 /**
  *
  * @author swage
+ * @modigier wasiq
+ * date 08/02/2022
  */
 public class Card {
     public enum Suit {
