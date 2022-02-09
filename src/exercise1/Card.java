@@ -19,7 +19,7 @@ public class Card {
             ACE, TWO, THREE, FOUR, FIVE, SIX, SEVEN,
             EIGHT, NINE, TEN, JACK, QUEEN, KING, EMPEROR
        }
-    // This was real fun
+    
     private Value value;
     private Suit suit;
     
